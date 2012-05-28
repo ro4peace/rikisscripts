@@ -25,7 +25,7 @@
 //===== Additional Comments: ===============================================
 //= 1.0 Finished the Script [Rikimaru]
 //=========================================================================
-//= DO NOT REMOVE MY AND CHRIS CREDITS AND CLAIM OUR WORK AS YOURS 
+//= DO NOT REMOVE MY CREDITS AND CLAIM MY WORK AS YOURS 
 //=========================================================================
 MAPNAME,XXX,YYY,D	script	Stat and Skill Seller	NID,{
 // ===================== Settings ===========================
